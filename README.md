@@ -1,5 +1,8 @@
 # Cuaderno: notas organizadas en carpetas (árboles en Python)
 
+
+# Link Vercel: https://cuaderno-arboles.vercel.app
+
 Un cuaderno de notas con carpetas dentro de carpetas, como el explorador de archivos pero para apuntes. Sirve para organizar apuntes de clase, ideas o listas, y encontrarlos rápido.
 
 La estructura de datos central es un **árbol**: cada carpeta es un nodo, sus hijos son lo que contiene (otras carpetas o notas) y las notas son las hojas.
